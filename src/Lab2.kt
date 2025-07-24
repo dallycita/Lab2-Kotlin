@@ -86,3 +86,5 @@ fun main() {
     val estudiantes = convertir(personas)
     mostrar(estudiantes)
 }
+
+// Dally Ramirez - 241035
